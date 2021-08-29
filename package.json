@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/svetach21/hexlet-hello-world/issues"
   },
-  "homepage": "https://github.com/svetach21/hexlet-hello-world#readme"
+  "homepage": "https://github.com/svetach21/hexlet-hello-world#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
